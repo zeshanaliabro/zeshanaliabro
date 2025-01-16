@@ -76,3 +76,7 @@ body {
     color: #666;
     margin-top: 10px;
 }
+.card{
+    display: flex !important;
+    justify-content: flex-start;
+}
